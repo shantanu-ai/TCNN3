@@ -26,7 +26,8 @@ Python(ver: 3.7)<br/>
 Pytorch(ver: 1.3.1) 
 
 # Models:
-Pretrained pytorch models for DTD dataset of TCNN3 architecture are available at the ./Models folder<br/>
+Pretrained pytorch models for DTD dataset of TCNN3 architecture can be dowbloaded from the following link:<br/>
+https://uflorida-my.sharepoint.com/:f:/g/personal/shantanughosh_ufl_edu/EsslShM1m61Ji2lxzrtI9gUB-yqIhDIntbkzaVHPlYv1vQ?e=Z0CBah <br/>
 
 # Training:
 python3 train.py<br/>
