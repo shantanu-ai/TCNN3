@@ -2,7 +2,6 @@
 *.pyc
 *.pickle
 *.png
-/Dataset/
 /labels/
 *.pt
 *.pth
