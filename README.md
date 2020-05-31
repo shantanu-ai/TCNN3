@@ -26,7 +26,7 @@ Python(ver: 3.7)<br/>
 Pytorch(ver: 1.3.1) 
 
 # Models:
-Pretrained pytorch models are kept at the ./Models folder<br/>
+Pretrained pytorch models for DTD dataset of TCNN3 architecture are available at the ./Models folder<br/>
 
 # Training:
 python3 train.py<br/>
