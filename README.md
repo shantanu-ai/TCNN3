@@ -26,11 +26,11 @@ Python(ver: 3.7)<br/>
 Pytorch(ver: 1.3.1) 
 
 # Models:
-Pretrained pytorch models are kept at the ./Models folder
+Pretrained pytorch models are kept at the ./Models folder<br/>
 
 # Training:
-python3 train.py
-This will create the models and place them in the ./Models folder
+python3 train.py<br/>
+This will create the models and place them in the ./Models folder.
 
 # Testing:
 python3 test.py
