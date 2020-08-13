@@ -32,11 +32,11 @@ Pytorch(ver: 1.3.1)
 Pretrained pytorch models for DTD dataset of TCNN3 architecture can be dowbloaded from the following link:<br/>
 https://uflorida-my.sharepoint.com/:f:/g/personal/shantanughosh_ufl_edu/EsslShM1m61Ji2lxzrtI9gUB-yqIhDIntbkzaVHPlYv1vQ?e=Z0CBah <br/>
 
-# Training:
+# How to run (Training)?:
 python3 train.py<br/>
 This will create the models and place them in the ./Models folder.
 
-# Testing:
+# How to run (Testing)?:
 python3 test.py
 
 # Hyperparameters:
