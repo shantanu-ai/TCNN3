@@ -4,6 +4,9 @@ V. Andrearczyk & Paul F. Whelan
 
 In this project, TCNN3 architecture is implemented in end to end manner from scratch(<b>No pretraining</b>) for the [DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/) dataset.
 
+# Architecture
+<img src="https://github.com/Shantanu48114860/TCNN3/blob/master/TCNN3.png>
+
 # Dataset:
 Download the raw images (train/test/val) from the following link:<br/>
 https://www.robots.ox.ac.uk/~vgg/data/dtd/
